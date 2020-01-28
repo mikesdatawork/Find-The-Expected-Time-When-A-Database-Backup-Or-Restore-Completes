@@ -1,6 +1,6 @@
 ![MIKES DATA WORK GIT REPO](https://raw.githubusercontent.com/mikesdatawork/images/master/git_mikes_data_work_banner_01.png "Mikes Data Work")        
 
-# Find The Expected Time When A Database Backup Or Restore Completes
+# Find The Expected Time When A Database Backup Or Restore Completes With SQL
 **Post Date: April 19, 2014**        
 
 
